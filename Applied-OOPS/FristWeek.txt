@@ -1,0 +1,8 @@
+* the variable scope/livespan of a variable
+.local : a vaiable whose lifesapan within a method
+.instance : a variable whose lifesapan with in a class put outside any method 
+.static :
+
+the frist periority is the local variable
+
+is not possible to reference expliced inpleaced 
